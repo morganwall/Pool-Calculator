@@ -2,7 +2,7 @@ package net.mlwall.pool;
 import static net.mlwall.pool.Main.input;
 
 public class Math {
-    public static final double PI = 3.14159265358979323846; // I could've used this from the java math class, though I thought it'd make sence to redefine it due to this being my math class.
+    public static final double PI = 3.14; // I could've used this from the java math class, though I thought it'd make sence to redefine it due to this being my math class.
     
     public static int average(int x, int y) // This and the float one aren't use.
     {

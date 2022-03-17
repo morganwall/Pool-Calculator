@@ -21,7 +21,7 @@ public class Invoice {
     public static void invoice(double radius, double deepDepth, double shallowDepth, double averageDepth, double area, double volume, double bottom, double lateralSurfaceArea)
     {
         System.out.println("User:                  " + user);
-        System.out.println("Radius:                " + radius + "m²");
+        System.out.println("Radius:                " + radius + "m");
         System.out.println("Deep End Depth:        " + deepDepth + "m");
         System.out.println("Shallow End Depth:     " + shallowDepth + "m");
         System.out.println("Average Depth:         " + averageDepth + "m");
